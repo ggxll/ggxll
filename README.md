@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gurwinder Gill</h1>
+<h1 align="center">Hi 👋, I'm Gurwinder Gill, But y'all can just hit me up as 'Gill'</h1>
 <h3 align="center">Full Stack Dev Hustlin’ for the Grind 💻 | Chasin’ Dreams in AI, ML, and Neural Networks 🤖 | Deep Learning & Blockchain Enthusiast 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggxll&label=Profile%20views&color=0e75b6&style=flat" alt="ggxll" /> </p>
